@@ -1,0 +1,34 @@
+th,td{
+    min-width: 180px;
+    border: solid 1px black;
+}
+button{
+    background-color: rgb(79, 120, 196);
+    color:white;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    padding: 2px 8px;
+}
+table{
+    /* border: solid 1px black; */
+}
+.table input{
+   
+    border: none;
+    text-align: center;
+}
+.options{
+    text-align: left;
+}
+.filterContainer input,.addForm input{
+    min-width: 175px;
+    margin-left: 2.5px;
+    
+}
+.secondButton{
+    margin-left: 10px;
+}
+.firstButton{
+    margin-left: 5px;
+}
